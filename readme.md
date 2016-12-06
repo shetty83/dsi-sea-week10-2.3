@@ -53,7 +53,6 @@ The data set also includes:
 #### Starter code
 
 [Starter Code](./assets/code/starter-code/starter-code.ipynb)
-> [Solution Code](./assets/code/solution-code/solution-code.ipynb)
 
 ## IMPORTANT:
 Make sure to terminate your cluster and remove logs from S3 once you're done to avoid unnecessary costs.
